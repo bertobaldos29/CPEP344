@@ -4,6 +4,6 @@ adam = 6
 
 total_apples = john + mary + adam
 
-print(john, mary, adam, sep=',')
+print(john, mary, adam, sep=', ')
 
 print("Total number of apples:", + total_apples)
